@@ -1,0 +1,5 @@
+#git ignore file for this project
+History
+*.SchDocPreview
+*.zip
+*.PcbDocPreview

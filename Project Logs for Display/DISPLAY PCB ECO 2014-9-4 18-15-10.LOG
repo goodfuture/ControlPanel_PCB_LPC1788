@@ -1,0 +1,12 @@
+Change Net Name : Old Net Name=U0_RXD New Net Name=U0_TXD
+Added Pin To Net: NetName=U0_RXD Pin=J3-5
+Added Pin To Net: NetName=U0_RXD Pin=U3-202
+Added Net: Name=U0_RXD
+Added Room: Name=U_CanRs232
+Added Room: Name=U_EEPROM
+Added Room: Name=U_Enet
+Added Room: Name=U_GPIO
+Added Room: Name=U_Mem
+Added Room: Name=U_Power
+Added Room: Name=U_System
+Added Room: Name=U_TFT

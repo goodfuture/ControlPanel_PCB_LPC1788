@@ -1,0 +1,9 @@
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_CanRs232|SchDesignator=U_CanRs232|FileName=CanRs232.SchDoc|SymbolType=Normal|RawFileName=CanRs232.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_EEPROM|SchDesignator=U_EEPROM|FileName=EEPROM.SchDoc|SymbolType=Normal|RawFileName=EEPROM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Enet|SchDesignator=U_Enet|FileName=Enet.SchDoc|SymbolType=Normal|RawFileName=Enet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_GPIO|SchDesignator=U_GPIO|FileName=GPIO.SchDoc|SymbolType=Normal|RawFileName=GPIO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Mem|SchDesignator=U_Mem|FileName=Mem.SchDoc|SymbolType=Normal|RawFileName=Mem.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_System|SchDesignator=U_System|FileName=System.SchDoc|SymbolType=Normal|RawFileName=System.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_TFT|SchDesignator=U_TFT|FileName=TFT.SchDoc|SymbolType=Normal|RawFileName=TFT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=Top.SchDoc

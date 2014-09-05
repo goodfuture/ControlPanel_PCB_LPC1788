@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=VDD3.3 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=VDD3.3 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Room: Name=U_CanRs232
+Added Room: Name=U_EEPROM
+Added Room: Name=U_Enet
+Added Room: Name=U_GPIO
+Added Room: Name=U_Mem
+Added Room: Name=U_Power
+Added Room: Name=U_System
+Added Room: Name=U_TFT
